@@ -1,0 +1,9 @@
+{
+  "llm_url": "http://127.0.0.1:8080",
+  "llama_server": "D:/AI/llama.cpp/b10330/llama-server.exe",
+  "llm_model": "D:/AI/Models/Qwen3-8B/Qwen3-8B-Q4_K_M.gguf",
+  "workspace": "D:/01-project/video",
+  "node": "D:/01-project/video/node_modules/node/bin/node.exe",
+  "browser": "C:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe",
+  "voice_dirs": ["D:/01-project/tool/models/voices", "D:/01-project/story2video/models/voices"]
+}

@@ -1,0 +1,10 @@
+node_modules/
+ket-qua/
+out/
+.DS_Store
+*.lock
+/phong-cach-3d/public/nguoi-dem-thoc-preview.mp4
+/phong-cach-3d/public/nguoi-dem-thoc-full.mp4
+__pycache__/
+*.pyc
+/studio/settings.json

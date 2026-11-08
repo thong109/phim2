@@ -1,0 +1,1 @@
+{"name":"revidapi-khac-go","version":"1.0.0","private":true,"type":"module","engines":{"node":">=20"},"dependencies":{"playwright-core":"^1.63.0","three":"^0.170.0"}}
